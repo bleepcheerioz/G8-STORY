@@ -433,3 +433,8 @@
 .numbering{
 	bottom: 3px;
 }
+
+#btnNext, #btnPrev,
+.nextButton, .previousButton,
+.arrowLeft, .arrowRight {
+  display: none !important;
